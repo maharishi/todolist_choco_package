@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$packageName= 'todolist'
+$packageName= 'dang-todolist'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url        = 'http://abstractspoon.pbworks.com/f/todolist_exe.zip'
 

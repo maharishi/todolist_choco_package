@@ -2,7 +2,7 @@
 
 $ErrorActionPreference = 'Stop';
 
-$packageName = 'todolist'
+$packageName = 'dang-todolist'
 $softwareName = 'todolist*'
 $installerType = 'ZIP' 
 
